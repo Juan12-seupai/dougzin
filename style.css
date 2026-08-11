@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(232, 210, 251);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+}
